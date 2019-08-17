@@ -1,4 +1,4 @@
-# Miss Sunny
+# Otaku Manager
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
 Can be found on telegram as [Miss Sunny](https://t.me/misssunny_bot).
